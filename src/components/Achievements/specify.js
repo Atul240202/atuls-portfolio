@@ -37,7 +37,7 @@ Government under Aatma Nirbhar Bhara abhiyan)
             <br></br>
 
             <li className="about-activity">
-              <ImPointRight /> Ranked under Top-50 in E-Yantra Robotics Competition
+              <ImPointRight /> Ranked under Top-50 in E-Yantra Robotics Competition by MHRD & IIT Bombay
             </li>
             <br></br>
 
