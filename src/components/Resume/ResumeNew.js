@@ -35,8 +35,7 @@ function ResumeNew() {
         </Row>
 
         <Row className="resume">
-        <iframe src="https://drive.google.com/file/d/1gjdfYpukgMjEY-sqfRkN7CRnaadQebq_/preview" width="60%" height="1080px" ></iframe>
-        </Row>
+<iframe src="https://drive.google.com/file/d/1eZXRsYuruDONZhK-gqo8_Ntq4FTAySBL/preview" width="60%" height="1080px" allow="autoplay"></iframe>        </Row>
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
