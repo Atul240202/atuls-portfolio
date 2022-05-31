@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02954bf4.css",
+    "main.js": "/static/js/main.b6674bb4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Atul.jpg": "/static/media/Atul.cca4cce9b245f578a0d0.jpg",
+    "static/media/chemistry.png": "/static/media/chemistry.f005733eb98cc4a24c0f.png",
+    "static/media/managefree.png": "/static/media/managefree.d70467dde78fdd4bdf0a.png",
+    "static/media/achievement.png": "/static/media/achievement.9d24051687ba3356900a.png",
+    "static/media/ar.png": "/static/media/ar.1fa215cdf3f693d90653.png",
+    "static/media/Atul's Resume.pdf": "/static/media/Atul's Resume.c9c420cbce4442d31fd0.pdf",
+    "static/media/padhai.png": "/static/media/padhai.e7768625da0d71d6dcc1.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.c5aaebfea4e82a8a2302.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/emotion.jpeg": "/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.02954bf4.css.map": "/static/css/main.02954bf4.css.map",
+    "main.b6674bb4.js.map": "/static/js/main.b6674bb4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02954bf4.css",
+    "static/js/main.b6674bb4.js"
+  ]
+}
