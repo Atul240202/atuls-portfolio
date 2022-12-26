@@ -9,18 +9,21 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hello Everyone, I am <span className="purple">Atul Jha </span>
-            from <span className="purple"> Madhubani, India.</span>
-            <br />Currently I am pursuing Bachelor's in Computer Science & Engineering from Chandigarh University
+            from <span className="purple"> Pune, India.</span>
+            <br />Currently I am in my Fourth year pursuing Bachelor's in Computer Science & Engineering from Chandigarh University
             <br />
             <br />
             Apart from coding, some other activities I am doing:
           </p>
           <ul>
             <li className="about-activity">
+              <ImPointRight /> Technical Intern @ Newton School
+            </li>
+            <li className="about-activity">
               <ImPointRight /> Patent Holder with 7 filed patents
             </li>
             <li className="about-activity">
-              <ImPointRight /> Chairperson of IEEE CTSoc CUSB
+              <ImPointRight /> Former Chairperson of IEEE CTSoc CUSB
             </li>
             <li className="about-activity">
               <ImPointRight /> Industrial Relations Team Lead at IEEE India Council
@@ -29,10 +32,7 @@ function AboutCard() {
               <ImPointRight /> Vice President of Innovtor's Hub (College community of Patents & Project)
             </li>
             <li className="about-activity">
-              <ImPointRight /> Lead of Events team of CSE Department 
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Subject Matter Expert at Chegg
+              <ImPointRight /> Delivered 20+ Sessions & Hosted 40+ Technical events.
             </li>
           </ul>
 
