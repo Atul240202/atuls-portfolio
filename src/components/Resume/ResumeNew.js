@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from "react";
-import { Container, Row } from "react-bootstrap";
-import Button from "react-bootstrap/Button";
-import Particle from "../Particle";
+import React, { useState, useEffect } from 'react';
+import { Container, Row } from 'react-bootstrap';
+import Button from 'react-bootstrap/Button';
+import Particle from '../Particle';
 import pdf from "../../Assets/../Assets/Atul's Resume.pdf";
-import { AiOutlineDownload } from "react-icons/ai";
-import { Document, Page, pdfjs } from "react-pdf";
-import "react-pdf/dist/esm/Page/AnnotationLayer.css";
+import { AiOutlineDownload } from 'react-icons/ai';
+import { Document, Page, pdfjs } from 'react-pdf';
+import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
@@ -20,28 +20,34 @@ function ResumeNew() {
 
   return (
     <div>
-      <Container fluid className="resume-section">
+      <Container fluid className='resume-section'>
         <Particle />
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        <Row style={{ justifyContent: 'center', position: 'relative' }}>
           <Button
-            variant="primary"
+            variant='primary'
             href={pdf}
-            target="_blank"
-            style={{ maxWidth: "250px" }}
+            target='_blank'
+            style={{ maxWidth: '250px' }}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
         </Row>
 
-        <Row className="resume">
-            <iframe src="https://drive.google.com/file/d/1YxT_Wp8x9H6WiTe4PmvDz2gEw4yRCUe6/preview" width="60%" height="1080px" allow="autoplay"></iframe></Row>
-        <Row style={{ justifyContent: "center", position: "relative" }}>
+        <Row className='resume'>
+          <iframe
+            src='https://drive.google.com/file/d/1ocY41WRzjeUiBm40JuPCsZbWSv6pOGLa/preview'
+            width='60%'
+            height='1080px'
+            allow='autoplay'
+          ></iframe>
+        </Row>
+        <Row style={{ justifyContent: 'center', position: 'relative' }}>
           <Button
-            variant="primary"
+            variant='primary'
             href={pdf}
-            target="_blank"
-            style={{ maxWidth: "250px" }}
+            target='_blank'
+            style={{ maxWidth: '250px' }}
           >
             <AiOutlineDownload />
             &nbsp;Download CV

@@ -20,8 +20,7 @@ function Home2() {
               what a Engineer do 🤷‍♂️
               <br />
               <br />I have started publishing my own content on{' '}
-              <a href='https://medium.com/@atuljha2402/about'>Medium</a> based
-              on
+              <a href='https://medium.com/@atuljha2402'>Medium</a> based on
               <i>
                 <b className='purple'> Javascript </b>
               </i>
@@ -32,7 +31,8 @@ function Home2() {
                 <b className='purple'>Web Technologies </b> as its give me an
                 opportunity to showcase my creativity
               </i>
-              I am also a Patent holder with &nbsp;
+              <br />
+              <br /> I am also a Patent holder with &nbsp;
               <i>
                 <b className='purple'> 7+ </b> Filed patents
               </i>
