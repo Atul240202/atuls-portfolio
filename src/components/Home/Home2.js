@@ -59,7 +59,7 @@ function Home2() {
               <br />
                   I have also done lots of volunteering work during my bachelors in which i have hosted 50+ offline & online tech sessions, designed college magazine, represented my deparments in Corporate advisory boards meeting of University, Grabbed opportunities to visit various places for research conferences (Funded by clg 😬) &    &nbsp;
               <i>
-                <b className='purple'> atlast enjoyed it alot.. </b> Filed patents
+                <b className='purple'> atlast enjoyed it alot.. </b>
               </i>
               <br />
               <br />
