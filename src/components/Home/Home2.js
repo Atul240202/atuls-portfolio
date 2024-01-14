@@ -24,14 +24,14 @@ function Home2() {
                 <b className='purple'> C++ & Javascript </b>
               </i>
               <br />
-              <br />I have written multiple blogs related to Web Dev on{' '}
+              <br />I have written multiple tech related blogs on {' '}
               <b className='purple'>
                 {' '}
                 <a className='purple' href='https://medium.com/@atuljha2402'>
                   Medium
                 </a>{' '}
               </b>{' '}
-              because sometimes I really enjoy writing down my knowledge
+              because sometimes I really enjoy writing down whatever i know
               <br />
               <br />
               I'm currently on a coding journey for mastering the art of{' '}
@@ -51,20 +51,28 @@ function Home2() {
               , sharpening my code-wielding skills with each encounter. 💻🚀
               <br />
               <br />
+              I am also a Patent holder with &nbsp;
+              <i>
+                <b className='purple'> 5 </b> Filed patents
+              </i>
+              <br />
+              <br />
+                  I have also done lots of volunteering work during my bachelors in which i have hosted 50+ offline & online tech sessions, designed college magazine, represented my deparments in Corporate advisory boards meeting of University, Grabbed opportunities to visit various places for research conferences (Funded by clg 😬) &    &nbsp;
+              <i>
+                <b className='purple'> atlast enjoyed it alot.. </b> Filed patents
+              </i>
+              <br />
+              <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className='purple'>Web Technologies </b> as its give me an
+                <b className='purple'>Web Technologies & Using emerging AI technologies </b>  as its give me an
                 opportunity to showcase my creativity
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
               with <b className='purple'>React.js, Next.js & Node.js</b>
-              <br />
-              <br />I am also a Patent holder with &nbsp;
-              <i>
-                <b className='purple'> 7+ </b> Filed patents
-              </i>
+
             </p>
           </Col>
           <Col md={4} className='myAvtar'>
