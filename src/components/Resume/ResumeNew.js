@@ -9,7 +9,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  'https://drive.google.com/file/d/1RpoDDjJZMgrqRRNFGkGCeoh_ICR1No8n/view?usp=sharing';
+  'https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=drivesdk';
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -36,7 +36,7 @@ function ResumeNew() {
 
         <Row className='resume'>
           <iframe
-            src='https://drive.google.com/file/d/1RpoDDjJZMgrqRRNFGkGCeoh_ICR1No8n/preview'
+            src='https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/preview'
             width='60%'
             height='1080px'
             allow='autoplay'

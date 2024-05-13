@@ -53,11 +53,11 @@ function Home2() {
               <br />
               I am also a Patent holder with &nbsp;
               <i>
-                <b className='purple'> 5 </b> Filed patents
+                <b className='purple'> 2 </b> Filed patents
               </i>
               <br />
               <br />
-                  I have also done lots of volunteering work during my bachelors in which i have hosted 50+ offline & online tech sessions, designed college magazine, represented my deparments in Corporate advisory boards meeting of University, Grabbed opportunities to visit various places for research conferences (Funded by clg 😬) &    &nbsp;
+                  I have also done lots of volunteering work during my bachelors in which I have hosted 50+ offline & online tech sessions, designed college magazine, represented my deparments in Corporate advisory board (CAB) meeting of University, Grabbed opportunities to visit various places for research conferences (Funded by clg 😬) &    &nbsp;
               <i>
                 <b className='purple'> atlast enjoyed it alot.. </b>
               </i>
@@ -71,7 +71,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className='purple'>React.js, Next.js & Node.js</b>
+              with <b className='purple'>React.js & Node.js</b>
 
             </p>
           </Col>
