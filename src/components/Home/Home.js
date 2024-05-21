@@ -4,6 +4,8 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import Button from "react-bootstrap/Button";
+import { BiLinkExternal } from "react-icons/bi";
 
 function Home() {
   return (
@@ -13,7 +15,7 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
+              <h1 style={{ paddingBottom: 1 }} className="heading">
                 Hi There!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
@@ -25,8 +27,17 @@ function Home() {
                 <strong className="main-name"> Atul Jha</strong>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
+              <div style={{ paddingTop: 30, paddingBottom: 30, paddingLeft: 47, textAlign: "left" }}>
                 <Type />
+              </div>
+              <div style={{ paddingLeft: 47, textAlign: "left" }}>
+                <Button
+                  variant="primary"
+                  href="https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=drivesdk"
+                  target="_blank"
+                >
+                  <BiLinkExternal /> &nbsp; View My Resume !!
+                </Button>{" "}
               </div>
             </Col>
 
