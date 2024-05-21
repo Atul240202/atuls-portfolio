@@ -36,7 +36,7 @@ function ResumeNew() {
 
         <Row className='resume'>
           <iframe
-            src='https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/preview'
+            src='https://drive.google.com/file/d/1_7gIu-wjsiez98_oRjwX2j_Ph0BZCURp/preview'
             width='60%'
             height='1080px'
             allow='autoplay'
