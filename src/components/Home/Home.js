@@ -36,7 +36,7 @@ function Home() {
                   href="https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=drivesdk"
                   target="_blank"
                 >
-                  <BiLinkExternal /> &nbsp; View My Resume !!
+                  <a href="https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=drivesdk"><BiLinkExternal /> &nbsp; View My Resume !!<a>
                 </Button>{" "}
               </div>
             </Col>
