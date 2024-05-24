@@ -36,7 +36,7 @@ function Home() {
                   href="https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=drivesdk"
                   target="_blank"
                 >
-                  <a href="https://drive.google.com/file/d/1_7glu-wjsiez98_oRjwX2j_Ph0BZCURp/view?usp=drivesdk"><BiLinkExternal /> &nbsp; Navigate to Resume from Header!!<a>
+                  <BiLinkExternal /> &nbsp; Navigate to Resume from Header!!
                 </Button>{" "}
               </div>
             </Col>
